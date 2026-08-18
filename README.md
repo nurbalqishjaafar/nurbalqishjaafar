@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nur Balqish 👋
 
-<!--
-**nurbalqishjaafar/nurbalqishjaafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science (Hons.) student specialising in Big Data at UiTM Shah Alam.
 
-Here are some ideas to get you started:
+Interested in:
+- Data Analytics
+- Business Intelligence
+- Information Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Power BI • Excel • Python • SQL • Tableau • RapidMiner • PHP • JAVA •C++
+• Git • GitHub
+
+## Projects
+
+Portfolio projects will be added here soon.
+
+## Connect with me
+
+LinkedIn: www.linkedin.com/in/nur-balqish-jaafar-5a2312357
