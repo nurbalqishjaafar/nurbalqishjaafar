@@ -12,9 +12,21 @@ Interested in:
 Power BI • Excel • Python • SQL • Tableau • RapidMiner • PHP • JAVA •C++
 • Git • GitHub
 
-## Projects
+## Featured Projects
 
-Portfolio projects will be added here soon.
+### 🇲🇾 Malaysia Tourism Analytics — DOSM Datathon 2026
+
+A data analytics and machine-learning project analysing Malaysian tourism
+patterns using **Power BI, Python, K-Means Clustering and PCA**.
+
+**Highlights:**
+- Developed interactive Power BI dashboards for tourism trend and flow analysis
+- Performed EDA on state-level tourism patterns
+- Applied K-Means clustering to segment states into three tourism market groups
+- Used the Elbow Method and Silhouette Score for cluster evaluation
+- Translated ML results into tourism strategy recommendations
+
+🔗 [View Project](https://github.com/nurbalqishjaafar/malaysia-tourism-analytics-datathon-2026)
 
 ## Connect with me
 
